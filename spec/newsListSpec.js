@@ -7,6 +7,4 @@ function testNewsList() {
   assert.isTrue(newsList.getHeadline(1) === "Best places In Devon To Get That Summer Trim");
 }
 
-
-
 testNewsList();
